@@ -6,6 +6,8 @@ Legacy collection of .NET projects created with .NET 2.0 and later runtimes.
 These source files, MSBuild projects files and installers were originally held in an SVN
 repository and has been moved to Git and published on GitHub to preserve it.
 
+This internal Listers fork was created to ensure availability and to enable NuGet packaging.
+
 ## MSBuild
 
 Most of these projects include scripts to build Debug and Release versions with some also having Setup projects
